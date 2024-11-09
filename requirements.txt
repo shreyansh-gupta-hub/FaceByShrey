@@ -1,1 +1,3 @@
 mediapipe
+face-recognition
+numpy
