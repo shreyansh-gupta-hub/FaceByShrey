@@ -12,7 +12,7 @@ FaceByShrey is a Python-based face recognition application using OpenCV, MediaPi
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/shreyansh-gupta-hub/FaceByShrey>
    cd FaceByShrey
    ```
 
@@ -52,8 +52,4 @@ FaceByShrey is a Python-based face recognition application using OpenCV, MediaPi
 - Save and load known faces and names for recognition across sessions.
 - Improve performance by reducing CPU usage and adding support for GPU processing.
 
-## License
-This project is licensed under the MIT License.
-```
 
-Replace `<repository-url>` with your repository's URL to complete the README file.
